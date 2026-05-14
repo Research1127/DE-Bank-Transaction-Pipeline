@@ -8,10 +8,13 @@ dependencies = [
     "ipykernel>=7.2.0",
     "kagglehub[pandas-datasets]>=1.0.1",
     "pandas>=3.0.2",
+    "psycopg[binary,pool]>=3.3.4",
     "pyarrow>=24.0.0",
+    "sqlalchemy>=2.0.49",
 ]
 
 [dependency-groups]
 dev = [
+    "jupyter>=1.1.1",
     "pgcli>=4.4.0",
 ]

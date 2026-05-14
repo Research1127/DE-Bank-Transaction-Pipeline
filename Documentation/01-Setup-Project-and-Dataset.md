@@ -1,5 +1,7 @@
 # Setup Project
 
+**[↑ Up](README.md)** | **[Next →](02-Setup-Docker.md)**
+
 ## Link To Project Dataset
 
 Follow this link to download the dataset [Bank Transaction Dataset](https://www.kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection/data).

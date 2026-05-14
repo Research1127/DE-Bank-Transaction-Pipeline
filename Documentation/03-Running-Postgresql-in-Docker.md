@@ -1,5 +1,7 @@
 # Running PostgreSQL with Docker
 
+**[↑ Up](README.md)** | **[← Previous](02-Setup-Docker.md)** | **[Next →](04-Data-Ingestion.md)**
+
 Now we want to do real data engineering. Let's use a Postgres database for that.
 
 You can run a containerized version of Postgres that doesn't require any installation steps. You only need to provide a few environment variables to it as well as a volume for storing data.

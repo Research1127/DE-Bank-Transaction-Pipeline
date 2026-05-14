@@ -1,5 +1,7 @@
 # Enhance Docker Setup
 
+**[↑ Up](README.md)** | **[← Previous](01-Setup-Project-and-Dataset.md)** | **[Next →](03-Running-Postgresql-in-Docker.md)**
+
 ## Dockerfile
 
 ```dockerfile

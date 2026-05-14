@@ -1,4 +1,4 @@
-# NY Taxi Dataset and Data Ingestion
+# Data Ingestion
 
 **[↑ Up](README.md)** | **[← Previous](03-Running-Postgresql-in-Docker.md)** | **[Next →](05-Ingestion-Script.md)**
 

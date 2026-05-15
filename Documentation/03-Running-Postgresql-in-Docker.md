@@ -33,7 +33,7 @@ docker run -it --rm \
 ### Explanation of Parameters
 
 - `e` sets environment variables (user, password, database name)
-- `v` ny_taxi_postgres_data:/var/lib/postgresql creates a named volume
+- `v` bank_trans_postgres_data:/var/lib/postgresql creates a named volume
   - Docker manages this volume automatically
   - Data persists even after container is removed
   - Volume is stored in Docker's internal storage

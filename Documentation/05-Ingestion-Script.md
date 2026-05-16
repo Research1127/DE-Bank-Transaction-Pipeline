@@ -1,6 +1,6 @@
 # Creating the Data Ingestion Script
 
-**[↑ Up](README.md)** | **[← Previous](04-Data-Ingestion.md)** | **[Next →](07-pgadmin.md)**
+**[↑ Up](README.md)** | **[← Previous](04-Data-Ingestion.md)** | **[Next →](06-PgAdmin-in-Docker.md)**
 
 ---
 
@@ -332,4 +332,4 @@ if __name__ == "__main__":
 
 ---
 
-**[↑ Up](README.md)** | **[← Previous](04-Data-Ingestion.md)** | **[Next →](07-pgadmin.md)**
+**[↑ Up](README.md)** | **[← Previous](04-Data-Ingestion.md)** | **[Next →](06-PgAdmin-in-Docker.md)**

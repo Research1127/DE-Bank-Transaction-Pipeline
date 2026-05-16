@@ -376,4 +376,4 @@ uv run pgcli -h localhost -p 5433 -u root -d bank_trans
 
 And explore the data.
 
-**[↑ Up](README.md)** | **[← Previous](04-postgres-docker.md)** | **[Next →](06-ingestion-script.md)**
+**[↑ Up](README.md)** | **[← Previous](03-Running-Postgresql-in-Docker.md)** | **[Next →](05-Ingestion-Script.md)**

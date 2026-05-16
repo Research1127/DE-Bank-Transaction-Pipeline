@@ -1,6 +1,6 @@
 # pgAdmin - Database Management Tool
 
-**[↑ Up](README.md)** | **[← Previous](05-Ingestion-Script.md)** | **[Next →](08-dockerizing-ingestion.md)**
+**[↑ Up](README.md)** | **[← Previous](05-Ingestion-Script.md)** | **[Next →](07-Dockerizing-Ingestion.md)**
 
 `pgcli` is a handy tool but it's cumbersome to use for complex queries and database management. [`pgAdmin` is a web-based tool](https://www.pgadmin.org/) that makes it more convenient to access and manage our databases.
 
@@ -103,4 +103,4 @@ docker stop pgadmin
 
 To start and stop the pgadmin
 
-**[↑ Up](README.md)** | **[← Previous](05-Ingestion-Script.md)** | **[Next →](08-dockerizing-ingestion.md)**
+**[↑ Up](README.md)** | **[← Previous](05-Ingestion-Script.md)** | **[Next →](07-Dockerizing-Ingestion.md)**

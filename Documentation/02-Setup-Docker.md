@@ -178,3 +178,5 @@ Whatever Container A writes to `/app`, Container B can read — they share the s
 ```
 
 This is the foundation of how **Docker Compose** orchestrates multi-container pipelines.
+
+**[↑ Up](README.md)** | **[← Previous](01-Setup-Project-and-Dataset.md)** | **[Next →](03-Running-Postgresql-in-Docker.md)**

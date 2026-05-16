@@ -19,6 +19,6 @@ RUN uv sync --locked
 ENV PATH="/app/.venv/bin:$PATH"
 
 # Copy application code
-COPY pipeline.py .
+COPY pipeline/data_ingestion.py .
 
-ENTRYPOINT [ "python", "pipeline.py" ]
+ENTRYPOINT [ "python", "data_ingestion.py" ]
